@@ -10,6 +10,6 @@ I'm doing my PhD on the distributive justice of (good and bad) sound environment
 ## Projects
 I'm working on a few interesting and related projects at the moment.
 
-Sound as an environmental justice issue
+Sound as environmental justice issue
 
 Fleurs de macadam (Montréal)
