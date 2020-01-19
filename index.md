@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chris Trudeau
+title: SounderCity
 ---
 
 # Welcome!
