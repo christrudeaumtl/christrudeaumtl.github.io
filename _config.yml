@@ -24,7 +24,7 @@ navbar-links:
   Projects: "projects"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -60,7 +60,7 @@ social-network-links:
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: trudeauchristopher
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -138,15 +138,28 @@ navbar-var-length: false
 
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+link-col: "#FAB95B"
+hover-col: "#FAB95B"
+navbar-col: "#547792"
+navbar-text-col: "#1A3263"
+navbar-border-col: "#1A3263"
+footer-col: "#547792"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#FAB95B"
+footer-hover-col: "#FAB95B"
+
+# Default colour scheme
+#page-col: "#FFFFFF"
+#text-col: "#404040"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#navbar-col: "#EAEAEA"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#DDDDDD"
+#footer-col: "#EAEAEA"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+#footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
