@@ -4,33 +4,6 @@ title: Publications
 subtitle: Learn about my publications
 ---
 
-<style>
-  /* Styling for publications page */
-mark.conf {
-  border-radius: 1em;
-  padding: .3em;
-  background: #6594B1;
-  color: white;
-  font-weight: bold;
-}
-
-mark.peer {
-  border-radius: 1em;
-  padding: .3em;
-  background: #213C51;
-  color: white;
-  font-weight: bold;
-}
-
-mark.gen {
-  border-radius: 1em;
-  padding: .3em;
-  background: #DDAED3;
-  color: white;
-  font-weight: bold;
-}
-</style>
-
 
 <mark class="conf">Conference paper</mark> Bockstael, A., Steele, D., **Trudeau, C.**, & Guastavino, C. (2019). Forever young: Is age of importance in urban soundscape design? Proceedings of the 26th International Congress on Sound and Vibration, Invited Paper. International Congress on Sound and Vibration.
 
