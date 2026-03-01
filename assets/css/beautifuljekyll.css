@@ -1125,3 +1125,28 @@ pre {
     display: inline-block;
   }
 }
+
+/* Styling for publications page */
+mark.conf {
+  border-radius: 1em;
+  padding: .3em;
+  background: #6594B1;
+  color: white;
+  font-weight: bold;
+}
+
+mark.peer {
+  border-radius: 1em;
+  padding: .3em;
+  background: #213C51;
+  color: white;
+  font-weight: bold;
+}
+
+mark.gen {
+  border-radius: 1em;
+  padding: .3em;
+  background: #DDAED3;
+  color: white;
+  font-weight: bold;
+}
