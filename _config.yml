@@ -50,10 +50,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: ""
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Chris
-  github: Chris
+#  email: ""
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: Chris
+  github: christrudeaumtl
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
@@ -73,7 +73,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: christrudeau
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
