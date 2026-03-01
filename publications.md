@@ -9,6 +9,8 @@ subtitle: Select publications
 
 <mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919. [Article](https://doi.org/10.1016/j.socscimed.2023.115919)
 
+<mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10, 20220169. [Article](https://doi.org/10.1515/noise-2022-0169)
+
 <mark class="conf">Keynote address</mark> **Trudeau, C.**  and Dupont, T. (2023). Les enjeux sonores en milieu urbain : une introduction au bruit environnementale. Application au bruit du REM. Congrès du RSRQ 2023, Impact de l’environnement AIR et SON sur la santé au Québec, Montreal, Qc, 8-9 November.
 
 <mark class="conf">Keynote address</mark> **Trudeau, C.** and Guastavino, C. (2023). Inequity in urban noise exposure, Urban Sound Symposium, Barcelona, Spain, 19-21 April.
@@ -37,5 +39,3 @@ subtitle: Select publications
 
 <mark class="conf">Conference paper</mark> **Trudeau, C.**, & Guastavino, C. (2018). Classifying soundscape using a multifaceted taxonomy. Proceedings of the Euronoise 2018. Euronoise 2018 - 11th European Congress and Exposition on Noise Control Engineering.
 
-
-<mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, Tarlao, C., & Guastavino, C. (2023). Montreal soundscapes during the COVID-19 pandemic: A spatial analysis of noise complaints and residents’ surveys. Noise Mapping, 10, 20220169. [Article](https://doi.org/10.1515/noise-2022-0169)
