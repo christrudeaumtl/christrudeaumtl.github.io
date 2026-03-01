@@ -1133,7 +1133,7 @@ mark.conf {
   background: #6594B1;
   color: white;
   font-weight: bold;
-  font-size: .9rem;
+  font-size: .8rem;
 }
 
 mark.peer {
@@ -1142,7 +1142,7 @@ mark.peer {
   background: #213C51;
   color: white;
   font-weight: bold;
-  font-size: .9rem;
+  font-size: .8rem;
 }
 
 mark.gen {
@@ -1151,5 +1151,5 @@ mark.gen {
   background: #DDAED3;
   color: white;
   font-weight: bold;
-  font-size: .9rem;
+  font-size: .8rem;
 }
