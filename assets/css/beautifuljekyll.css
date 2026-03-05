@@ -1192,11 +1192,11 @@ section.project-card {
   position: relative;
 }
 
-/* .card-item:hover {
+.card-item:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   border-color: #e2e8f0;
-} */
+} 
 
 mark.project-link {
   border-radius: 1em;
