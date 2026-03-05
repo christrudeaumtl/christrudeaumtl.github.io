@@ -1155,12 +1155,12 @@ mark.gen {
 }
 
 /* Styling for project cards */ 
-.card-container {
+div.card-container {
   display: flex;
   flex-wrap: wrap;
 }
 
-.project-card {
+section.project-card {
   /*display: block;*/
   width: 40%;
   padding: 5%;
@@ -1171,7 +1171,7 @@ mark.gen {
 }
 
 @media (max-width: 600px) {
-  .project-card {
+  section.project-card {
     flex: 100%;
   }
 }
