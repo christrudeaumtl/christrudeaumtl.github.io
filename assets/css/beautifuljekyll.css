@@ -1153,3 +1153,23 @@ mark.gen {
   font-weight: bold;
   font-size: .8rem;
 }
+
+/* Styling for project cards */ 
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  /*display: block;*/
+  width: 40%;
+  padding: 5%;
+  margin: 0 auto;
+  flex: 50%;
+}
+
+@media (max-width: 600px) {
+  .project-card {
+    flex: 100%;
+  }
+}
