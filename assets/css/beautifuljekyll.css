@@ -1176,6 +1176,28 @@ section.project-card {
   }
 }
 
+.card-list {
+  margin-left: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.card-item {
+  background: white;
+  border: 1px solid #1A3263;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  transition: all 150ms ease-in-out;
+  position: relative;
+}
+
+.card-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border-color: #e2e8f0;
+}
+
 mark.project-link {
   border-radius: 1em;
   padding: .3em;
