@@ -7,7 +7,7 @@ subtitle: Learn about my projects
 <div class="card-list">
   <div class="card-item">
     <h3>Fantastique acoustique</h3>
-    <p>A graphic novel for when you're curious about acoustics and hearing.<br>
+    <p>A graphic novel for when you're curious about acoustics and hearing. Includes:<br>
     <ul>
       <li>Sound and social inequality</li>
       <li>Planning for better sounding cities</li>
