@@ -14,7 +14,7 @@ To find out, I asked a little over 2500 Montreal residents to rate the overall (
 The perceived general risk of noise exposure is the risk that people believe applies to everyone, to an "imagined average person". In the graph below, those are the blue dots. And noise is the least risky of the four. (The difference isn't huge, but it is statistically significant. The others are all about the same.)  
 
 <figure>
-    <img src="assets/img/Figure_3.png"
+    <img src="/assets/img/Figure_3.png"
          alt="Figure comparing the perceived general and personal risk of exposure to noise.">
     <figcaption>How risky is noise perceived to be?</figcaption>
 </figure>
