@@ -14,9 +14,12 @@ To find out, I asked a little over 2500 Montreal residents to rate the overall (
 The perceived general risk of noise exposure is the risk that people believe applies to everyone, to an "imagined average person". In the graph below, those are the blue dots. And noise is the least risky of the four. (The difference isn't huge, but it is statistically significant. The others are all about the same.)  
 
 ![Figure comparing the perceived general and personal risk of exposure to noise.](assets/img/Figure_3.png)
+
 *How risky is noise perceived to be?*
 
-But survey respondents were also asked about the risk to themselves - the perceived personal risk. And this is where an interesting picture emerges. The personal risk of noise exposure is lower than the general risk. (It would be a bit surprising if it weren't, because perceived personal risk often is lower. This phenomenon has a name - unrealistic comparative optimism.) The interesting part of this is the way the different hazards are arranged in comparison with the perceived general risk. You can see from the yellow dots on the graph that noise exposure is now between lead contamination and tornadoes on the low end, and poor air quality and heat waves on the high end.
+But survey respondents were also asked about the risk to themselves - the perceived personal risk. And this is where an interesting picture emerges. The personal risk of noise exposure is lower than the general risk. (It would be a bit surprising if it weren't, because perceived personal risk often is lower. This phenomenon has a name - unrealistic comparative optimism.) 
+
+The interesting part of this is the way the different hazards are arranged in comparison with the perceived general risk. You can see from the yellow dots on the graph that noise exposure is now between lead contamination and tornadoes on the low end, and poor air quality and heat waves on the high end.
 
 ## Implications
 
