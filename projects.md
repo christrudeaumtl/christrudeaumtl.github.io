@@ -11,9 +11,7 @@ subtitle: Learn about my projects
     <p>This is an area that I've been studying for the past few years. Here, I'm unpacking some of the findings.</p>
     <a href="https://christrudeaumtl.github.io/noise-risk/"><mark class="project-link">Read more</mark></a>
   </div>
-</div>
-
-<div class="card-list">
+  
   <div class="card-item">
     <h3>Fantastique acoustique</h3>
     <p>A graphic novel for when you're curious about acoustics and hearing. Includes:</p>
