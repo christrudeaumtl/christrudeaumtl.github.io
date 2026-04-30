@@ -1167,6 +1167,7 @@ mark.gen {
   border: 1px solid #547792;
   border-radius: 0.5rem;
   padding: 1.5rem;
+  margin-bottom: 1.5rem;
   transition: all 150ms ease-in-out;
   position: relative;
 }
