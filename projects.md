@@ -12,7 +12,7 @@ subtitle: Learn about my projects
       <li>Sound and social inequality</li>
       <li>Planning for better sounding cities</li>
     </ul>
-    <p>This graphic novel got an <a href="https://acoustics.org/acoustical-society-of-america-announces-2025-science-communication-award-winners/">honourable mention</a> from the Acoustical Society of America for the <em>Long Print<em> category!</p>
+    <p>This graphic novel got an <a href="https://acoustics.org/acoustical-society-of-america-announces-2025-science-communication-award-winners/">honourable mention</a> from the Acoustical Society of America for the <em>Long Print</em> category!</p>
     <a href="https://www.fantastiqueacoustique.net/%C3%A0-t%C3%A9l%C3%A9charger"><mark class="project-link">Read in English or French</mark></a>
   </div>
 </div>
