@@ -7,6 +7,8 @@ subtitle: Select publications
 {: .box-note}
 I've listed three types of publications, all colour-coded:<br><mark class="peer">peer reviewed articles</mark> <br><mark class="conf">conferences</mark> <br><mark class="gen">non-academic work</mark>
 
+<mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, & Guastavino, C. (2026). The risk perception of environmental noise. Journal of Environmental Psychology, 103061. [Article](https://doi.org/10.1016/j.jenvp.2026.103061)
+
 <mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, Bild, E., & Guastavino, C. (2024). Noise regulations and practices: A survey of Quebec municipalities. Urban Research & Practice, 1–28. [Article](https://doi.org/10.1080/17535069.2024.2401326)
 
 <mark class="peer">Peer reviewed article</mark> **Trudeau, C.**, King, N., & Guastavino, C. (2023). Investigating sonic injustice: A review of published research. Social Science & Medicine, 326, 115919. [Article](https://doi.org/10.1016/j.socscimed.2023.115919)
